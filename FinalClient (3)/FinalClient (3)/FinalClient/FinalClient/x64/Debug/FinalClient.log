@@ -1,0 +1,178 @@
+﻿  ClientInfo.cpp
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\CPULoad.h(76,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(92,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(95,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(82,7): warning C4101: 'ssidpos': unreferenced local variable
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(142,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(144,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(175,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(177,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(184,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(186,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(193,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(195,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(34,24): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(130,22): warning C4244: 'argument': conversion from 'TCHAR' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(148,27): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(69,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(69,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  CPULoad.cpp
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\CPULoad.h(76,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  FileData.cpp
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(142,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(144,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(175,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(177,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(184,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(186,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(193,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(195,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MainClient.cpp
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\CPULoad.h(76,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(92,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(95,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(82,7): warning C4101: 'ssidpos': unreferenced local variable
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(142,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(144,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(175,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(177,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(184,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(186,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(193,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\FileData.h(195,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(34,24): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(130,22): warning C4244: 'argument': conversion from 'TCHAR' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(148,27): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\MainClient.cpp(17,10): warning C4081: expected 'identifier'; found '('
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(69,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(69,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  NetworkInfo.cpp
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(92,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(95,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\NetworkInfo.h(82,7): warning C4101: 'ssidpos': unreferenced local variable
+  SystemInfo.cpp
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(34,24): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(130,22): warning C4244: 'argument': conversion from 'TCHAR' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(148,27): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(69,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\FinalClient\SystemInfo.h(69,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Generating Code...
+  LINK : C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\x64\Debug\FinalClient.exe not found or not built by the last incremental link; performing full link
+  FinalClient.vcxproj -> C:\Users\anirudh.kaushal\Downloads\FinalClient (3)\FinalClient (3)\FinalClient\x64\Debug\FinalClient.exe
